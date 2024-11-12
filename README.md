@@ -24,7 +24,9 @@ This Java project implements a solution for summarizing a sequence of numbers by
 ## Usage Example
 
 The summarizer takes a comma-delimited list of integers as input and outputs a summarized version:
+
 Input: "1,3,6,7,8,12,13,14,15,21,22,23,24,31"
+
 Expected Output: "1, 3, 6-8, 12-15, 21-24, 31"
 
 ## Running Tests
